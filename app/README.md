@@ -45,27 +45,24 @@
 ---
 
 ## Screenshots
-
-## Screenshots
-![csharp](res/drawable/csharp.png)
-### Java Quiz
-![html Quiz](res/drawable/html.png)
-![backgroung Quiz](res/drawable/backgroung.png)
-![boy Quiz](res/drawable/boy.png)
-![clanguage ](res/drawable/clanguage.png)
-![google](res/drawable/google.png)
-![cplus](res/drawable/cplus.png)
-![dart](res/drawable/dart.png)
-![ii](res/drawable/ii.png)
-![insta](res/drawable/insta.png)
-![java](res/drawable/java.png)
-![ok](res/drawable/ok.png)
-![python](res/drawable/python.png)
-![splash_image](res/drawable/splash_image.png)
-![kotlin](res/drawable/kotlin.png)
-![na](res/drawable/na.png)
- ![menubutton](res/drawable/menubutton.png)
- ![linkedin_logo](res/drawable/linkedin_logo.png)
+![background.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/background.png)
+![boy.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/boy.png)
+![clanguage.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/clanguage.png)
+![coding.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/coding.png)
+![cplus.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/cplus.png)
+![csharp.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/csharp.png)
+![dart.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/dart.png)
+![google.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/google.png)
+![html.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/html.png)
+![insta.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/insta.png)
+![java.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/java.png)
+![kotlin.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/kotlin.png)
+![linkedin_logo.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/linkedin_logo.png)
+![menubutton.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/menubutton.png)
+![na.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/na.png)
+![ok.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/ok.png)
+![python.png](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/python.png)
+![splash_image.jpeg](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/splash_image.jpeg)
  ## Navigation Flow
 ```text
 Signup → Login → Home → Quiz Categories → Quiz Questions → Results
