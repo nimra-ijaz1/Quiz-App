@@ -43,7 +43,7 @@
 ---
 
 ## Screenshots
-![background](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/background.png)
+![background](https://raw.githubusercontent.com/nimra-ijaz1/Quiz-App/main/app/src/main/res/drawable/background.png)
 ![boy](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/boy.png)
 ![clanguage](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/clanguage.png)
 ![coding](https://raw.githubusercontent.com/nimra-ijaz1/QuizApp/main/app/src/main/res/drawable/coding.png)
