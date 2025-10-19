@@ -2,7 +2,7 @@
 
 **QuizApp** is an Android application designed to help users test and improve their programming knowledge through interactive multiple-choice quizzes. The app supports various programming languages including Java, Kotlin, C++, C#, and more, with real-time result tracking.
 
----
+--
 ## Features
 
 - **User Authentication:** Secure **login and signup** using Firebase Authentication.
